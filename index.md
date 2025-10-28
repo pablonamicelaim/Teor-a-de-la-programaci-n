@@ -6,7 +6,19 @@
 
 ### 🧩 Unidad 1: Fundamentos de la Programación  
 Introducción a los conceptos básicos, lógica computacional y estructura de algoritmos.  
-[Algoritmos](Unidad1.md)
+
+Contenidos de la Unidad
+● Algoritmos, pseudocódigo,
+diagrama de flujo.
+● Programación por bloques.
+● Ejemplos de algoritmos con
+estructuras lineales/secuenciales.
+● Principales dificultades en la
+aplicación de los contenidos.
+● Reflexión crítica de los
+aprendizajes de la unidad.
+
+[Contenidos de la Unidad](Unidad1.md)
 
 ### ⚙️ Unidad 2: Lenguajes y Paradigmas  
 Exploración de distintos lenguajes y enfoques en la resolución de problemas computacionales.  
