@@ -8,14 +8,15 @@
 Introducción a los conceptos básicos, lógica computacional y estructura de algoritmos.  
 
 Contenidos de la Unidad
-● Algoritmos, pseudocódigo,
+
+- Algoritmos, pseudocódigo,
 diagrama de flujo.
-● Programación por bloques.
-● Ejemplos de algoritmos con
+- Programación por bloques.
+- Ejemplos de algoritmos con
 estructuras lineales/secuenciales.
-● Principales dificultades en la
+- Principales dificultades en la
 aplicación de los contenidos.
-● Reflexión crítica de los
+- Reflexión crítica de los
 aprendizajes de la unidad.
 
 [Contenidos de la Unidad](Unidad1.md)
