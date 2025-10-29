@@ -21,8 +21,12 @@ aprendizajes de la unidad.
 
 [Contenidos de la Unidad](Unidad1.md)
 
+---
+
 ### ⚙️ Unidad 2: Lenguajes y Paradigmas  
 Exploración de distintos lenguajes y enfoques en la resolución de problemas computacionales.  
+
+---
 
 ### 🧠 Unidad 3: Aplicaciones Prácticas  
 Desarrollo de proyectos, análisis de código y solución de problemas reales.  
