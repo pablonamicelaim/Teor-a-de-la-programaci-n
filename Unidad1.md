@@ -1,21 +1,15 @@
-### Unidad 1 
+### 🧩 Unidad 1
 
-En este apartado se da lugar a todas actividades realizadas durante el perio de trabajo:
+En este apartado se recopilan todas las actividades realizadas durante el período de trabajo académico:
 
--Herramientas de algoritmos
-(pseudocódigo y diagramas de
-flujo).
+#### 📘 Actividades
 
--Instalación de lenguajes de
-programación (C, Python o Java).
+- 🧠 **Herramientas de algoritmos:** uso de pseudocódigo y diagramas de flujo para representar procesos lógicos.  
+- 💻 **Instalación de lenguajes de programación:** configuración básica de C, Python o Java.  
+- 🧮 **Primer acercamiento a la construcción de algoritmos:** desarrollo de estructuras secuenciales en pseudocódigo.  
+- ⚙️ **Del diseño del algoritmo a la construcción del programa:** implementación práctica de algoritmos en un lenguaje de programación.  
 
--Primer acercamiento a la
-construcción de algoritmos con
-estructuras secuenciales en
-pseudocódigoTarea
+📂 **[Link de los trabajos en Drive](https://drive.google.com/drive/folders/1r9wZRN7D7BfF9Ng0_IaujF5ySU81kIzj?usp=drive_link)**
 
--Del diseño del algoritmo con
-estructuras secuenciales a la
-construcción del programa
-
-[Link de los trabajos en Drive ](https://drive.google.com/drive/folders/1r9wZRN7D7BfF9Ng0_IaujF5ySU81kIzj?usp=drive_link)
+### Navegavilidad 
+🔙 [Volver al Portafolio Principal](index/README.md)  
