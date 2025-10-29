@@ -36,8 +36,12 @@ Desarrollo de proyectos, análisis de código y solución de problemas reales.
 ### 🧾 Conclusiones  
 Reflexión sobre la importancia de la programación como herramienta para la innovación y el pensamiento lógico.  
 
+---
+
 ### 📚 Referencias  
 Fuentes teóricas, bibliografía y recursos consultados.  
+
+---
 
 ### 🤖 Uso de la IA Generativa  
 Aplicaciones de herramientas de inteligencia artificial (como ChatGPT) en el aprendizaje y desarrollo de proyectos.  
