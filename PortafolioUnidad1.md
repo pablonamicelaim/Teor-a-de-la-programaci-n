@@ -10,6 +10,7 @@ Introducción a los conceptos básicos, lógica computacional y estructura de al
 Contenidos de la Unidad
 
 🧠 Unidad: Fundamentos de Algoritmos y Programación
+
 🧩 Algoritmos, Pseudocódigo y Diagrama de Flujo
 Definición de Algoritmo
 
