@@ -53,13 +53,17 @@ Un diagrama de flujo es una representación gráfica de un algoritmo. Utiliza s�
 Ejemplo:
 
   [Inicio]
-     ↓     
+     ↓    
+     
  [Leer num1, num2]
      ↓
+     
  [suma = num1 + num2]
-      ↓  
+      ↓
+      
  [Mostrar suma]
-      ↓    
+      ↓
+      
    [Fin]
    
 🧱 Programación por Bloques
