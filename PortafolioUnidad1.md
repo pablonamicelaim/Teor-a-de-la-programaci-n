@@ -38,8 +38,11 @@ Ejemplo en pseudocódigo:
 
 Inicio
   Leer número1
+  
   Leer número2
+  
   suma ← número1 + número2
+  
   Escribir "La suma es: ", suma
 Fin
 
@@ -50,15 +53,23 @@ Un diagrama de flujo es una representación gráfica de un algoritmo. Utiliza s�
 Ejemplo:
 
   [Inicio]
+  
      ↓
+     
  [Leer num1, num2]
+ 
      ↓
+     
  [suma = num1 + num2]
+ 
      ↓
+     
  [Mostrar suma]
+ 
      ↓
+     
    [Fin]
-
+   
 🧱 Programación por Bloques
 
 La programación por bloques es un enfoque visual para programar, donde se construyen programas arrastrando y conectando bloques que representan instrucciones.
@@ -80,8 +91,11 @@ Ejemplo en pseudocódigo:
 
 Inicio
   Leer base
+  
   Leer altura
+  
   area ← (base * altura) / 2
+  
   Escribir "El área del triángulo es: ", area
 Fin
 
