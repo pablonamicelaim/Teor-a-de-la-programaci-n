@@ -19,7 +19,7 @@
 ## **Estudiante  Pablo Namicela**
 ---
 
-# [Unidad 1](unidad1/unidad1.md)
+# [Unidad 1](unidad1)
 
 ---
 ## ○ Conclusiones generales (no aplica).
