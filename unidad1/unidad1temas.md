@@ -1,7 +1,5 @@
 ## 📚 Unidad 1
 
-### [⬅️ Volver a la Unidad 1](Unidad1.md)
-
 ### Contenidos de la Unidad
 
 **[Algoritmos, pseudocódigo y diagrama de flujo](algoritmos.md)** 
