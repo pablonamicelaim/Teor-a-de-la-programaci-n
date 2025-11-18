@@ -1,31 +1,34 @@
-# 📘 Universidad Nacional de Loja  
-**FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RERCURSOS NATURALES NO RENOVABLES**  
-**CARRERA: Computación**
+# 📘 **Universidad Nacional de Loja**  
+**🏛️ FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES**  
+**💻 CARRERA: Computación**
 
 ---
 
-## **Universidad Nacional de Loja**
+## 🎓 **Universidad Nacional de Loja**
+## 💻 **Computación**
+## 📘 **Asignatura: Teoría de la Programación**
+## 🔄 **Ciclo: 1er Ciclo**
+## 📅 **Período académico: Septiembre 2025 – Febrero 2026**
+## 👩‍🏫 **Docente: Ing. Lissete López**
+## 👨‍🎓 **Estudiante: Pablo Namicela**
 
-## **Computación**
-
-## **Asignatura  Teoría de la programación** 
-
-## **Ciclo  1er Ciclo**
-
-## **Período académico  Septiembre 2025-febrero 2026**
-
-## **Docente  Ing. Lissete López**
-
-## **Estudiante  Pablo Namicela**
 ---
 
-# [Unidad 1 TEMAS](unidad1/unidad1temas.md)
-# [Unidad 1 TRABAJOS](.md/Trabajos.md)
----
-## ○ Conclusiones generales (no aplica).
-## ○ Bibliografía (formato IEEE).
-## ○ Declaración de uso de la IA generativa.
+# 📚 **Unidades y Recursos**
+### 👉 [📘 Unidad 1 – Temas](unidad1/unidad1temas.md)
+### 👉 [📝 Unidad 1 – Trabajos](.md/Trabajos.md)
+
 ---
 
+## 📌 **Conclusiones generales**  
+*(No aplica)*
+
+## 📖 **Bibliografía (formato IEEE)**  
+*(Agregar al finalizar el documento)*
+
+## 🤖 **Declaración de uso de IA generativa**  
+*(Incluir según normativa institucional)*
+
+---
 
 
