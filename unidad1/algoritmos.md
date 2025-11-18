@@ -12,7 +12,7 @@ proceso que se realiza y los resultados o datos de salida
 <img width="324" height="442" alt="image" src="https://github.com/user-attachments/assets/ef3087f9-a855-480b-b094-f12cd15def20" />
 
 
-# Psudocódigos
+# Pseudocódigos
 **¿Qué son?**
 Los pseudocódigos son el siguiente paso para usar un lenguaje de programación, estos
 son la ejecución de los algoritmos en sistemas que soportan este tipo de pseudolenguaje.
