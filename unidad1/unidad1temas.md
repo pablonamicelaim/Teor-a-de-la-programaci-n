@@ -1,5 +1,5 @@
 ## 📚 Unidad 1
-### [Volver a la Unidad 1](Unidad1/Unidad1.md)
+### [Volver a la Unidad 1](Unidad1.md)
 
 ### Contenidos de la Unidad
 
@@ -11,4 +11,4 @@
 
 **[Principales dificultades en la aplicación de los contenidos](dificultades.md)** 
 
-**[Reflexión crítica de los aprendizajes de la unidad](Refelxiones.md)******
+**[Reflexión crítica de los aprendizajes de la unidad](Refelxiones.md)**
