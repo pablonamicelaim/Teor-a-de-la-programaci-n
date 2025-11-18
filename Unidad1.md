@@ -19,8 +19,8 @@
 ## **Estudiante  Pablo Namicela**
 ---
 
-# [Unidad 1](unidad1/unidad1temas.md)
-
+# [Unidad 1 TEMAS](unidad1/unidad1temas.md)
+# [Unidad 1 TRABAJOS](.md/Trabajos.md)
 ---
 ## ○ Conclusiones generales (no aplica).
 ## ○ Bibliografía (formato IEEE).
