@@ -13,5 +13,3 @@
 **[Principales dificultades en la aplicación de los contenidos](dificultades.md)** 
 
 **[Reflexión crítica de los aprendizajes de la unidad](Refelxiones.md)**
-
-**[Trabajos Entregados](.md)**
