@@ -110,4 +110,7 @@ Luego para iniciar el programa ya compilado se utliza:
 
   **<img width="591" height="240" alt="image" src="https://github.com/user-attachments/assets/b235925d-758d-4901-9c49-b6716be7d1dd" />**
 
+## Prueba de Escritorio 
+
+<img width="788" height="250" alt="image" src="https://github.com/user-attachments/assets/69267920-44dc-414d-bf4a-a381b1fc9b49" />
 
