@@ -56,6 +56,9 @@ Luego para iniciar el programa ya compilado se utliza:
 
 <img width="591" height="240" alt="image" src="https://github.com/user-attachments/assets/43163e6c-3be0-4cbc-8651-2358c884735e" />
 
+## Prueba de Escritorio 
+
+<img width="800" height="258" alt="image" src="https://github.com/user-attachments/assets/26a23a38-560d-4d8d-9e19-274362494ebb" />
 
 ## 🎨 Pseint
 
