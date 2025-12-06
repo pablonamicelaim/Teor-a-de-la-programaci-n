@@ -22,6 +22,7 @@
 ## 📚 **Unidades y Recursos**
 
 ## 👉 [📘 Unidad 1](Unidad1CarpetaGeneral/U1.md)
+## [Unidad 2](Unidad2CarpetaGeneral/U2.md)
 
 ---
 
