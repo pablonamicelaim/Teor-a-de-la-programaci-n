@@ -7,12 +7,12 @@
 
 ---
 
-## 💻 **Computación**
-## 📘 **Asignatura: Teoría de la Programación**
-## 🔄 **Ciclo: 1er Ciclo**
-## 📅 **Período académico: Septiembre 2025 – Febrero 2026**
-## 👩‍🏫 **Docente: Ing. Lissete López**
-## 👨‍🎓 **Estudiante: Pablo Namicela**
+💻 **Computación**
+📘 **Asignatura: Teoría de la Programación**
+🔄 **Ciclo: 1er Ciclo**
+📅 **Período académico: Septiembre 2025 – Febrero 2026**
+👩‍🏫 **Docente: Ing. Lissete López**
+👨‍🎓 **Estudiante: Pablo Namicela**
 
 ---
 
