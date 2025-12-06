@@ -6,7 +6,7 @@
 
 ---
 
-**💻 ** ## Carrera :** Computación**
+**💻 ## ** Carrera :** Computación**
 
 **📘 Asignatura: Teoría de la Programación**
 
