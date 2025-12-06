@@ -61,4 +61,4 @@ Los diagramas de flujo permiten:
  
 <img width="830" height="996" alt="image" src="https://github.com/user-attachments/assets/0243943a-6f20-4216-9e2e-6abfc3089eab" />
 
-
+## [Volver A Trabajos](../TrabajosU1/Trabajos.md)
