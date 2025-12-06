@@ -2,8 +2,7 @@
 
 ---
 
-**🏛️ Facultad De La Energía, Las Industrias Y Los Recursos Naturales No Renovables**  
-**💻 Carrera: Computación**
+## **🏛️ Facultad De La Energía, Las Industrias Y Los Recursos Naturales No Renovables**  
 
 ---
 
