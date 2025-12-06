@@ -1,4 +1,5 @@
-# 🎓 **Universidad Nacional De Loja**
+
+# **🎓 Portafolio Digital de Aprendizaje – Teoría de la Programación**
 
 ---
 
@@ -7,8 +8,6 @@
 ---
 
 **💻 Carrera: Computación**
-
-**📘 Asignatura: Teoría De La Programación**
 
 **🔄 Ciclo: Primero**
 
