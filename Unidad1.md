@@ -21,8 +21,7 @@
 
 ## 📚 **Unidades y Recursos**
 
-### 👉 [📘 Unidad 1 – Temas](unidad1/unidad1temas.md)
-### 👉 [📝 Unidad 1 – Trabajos](.md/Trabajos.md)
+### 👉 [📘 Unidad 1](Unidad1CarpetaGeneral/U1.md)
 
 ---
 
