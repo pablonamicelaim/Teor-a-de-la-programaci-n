@@ -1,10 +1,12 @@
-# 📘 **Universidad Nacional de Loja**  
-**🏛️ FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES**  
-**💻 CARRERA: Computación**
+# 🎓 **Universidad Nacional de Loja**
 
 ---
 
-## 🎓 **Universidad Nacional de Loja**
+**🏛️ Facultad De La Energía, Las Industrias Y Los Recursos Naturales No Renovables**  
+**💻 Carrera: Computación**
+
+---
+
 ## 💻 **Computación**
 ## 📘 **Asignatura: Teoría de la Programación**
 ## 🔄 **Ciclo: 1er Ciclo**
