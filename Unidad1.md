@@ -1,4 +1,4 @@
-# 🎓 **Universidad Nacional de Loja**
+### 🎓 **Universidad Nacional de Loja**
 
 ---
 
@@ -6,11 +6,11 @@
 
 ---
 
-**💻 ## ** Carrera :** Computación**
+**💻 Carrera: Computación**
 
 **📘 Asignatura: Teoría de la Programación**
 
-**🔄 Ciclo: 1er Ciclo**
+**🔄 Ciclo: Primero**
 
 **📅 Período académico: Septiembre 2025 – Febrero 2026**
 
