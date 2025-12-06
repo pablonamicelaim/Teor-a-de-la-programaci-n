@@ -1,4 +1,4 @@
-### 🎓 **Universidad Nacional de Loja**
+# 🎓 **Universidad Nacional De Loja**
 
 ---
 
@@ -8,11 +8,11 @@
 
 **💻 Carrera: Computación**
 
-**📘 Asignatura: Teoría de la Programación**
+**📘 Asignatura: Teoría De La Programación**
 
 **🔄 Ciclo: Primero**
 
-**📅 Período académico: Septiembre 2025 – Febrero 2026**
+**📅 Período Académico: Septiembre 2025 – Febrero 2026**
 
 **👩‍🏫 Docente: Ing. Lissete López**
 
@@ -20,7 +20,8 @@
 
 ---
 
-# 📚 **Unidades y Recursos**
+## 📚 **Unidades y Recursos**
+
 ### 👉 [📘 Unidad 1 – Temas](unidad1/unidad1temas.md)
 ### 👉 [📝 Unidad 1 – Trabajos](.md/Trabajos.md)
 
