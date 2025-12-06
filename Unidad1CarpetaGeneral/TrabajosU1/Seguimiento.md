@@ -23,6 +23,8 @@ FinAlgoritmo
 
 <img width="398" height="626" alt="image" src="https://github.com/user-attachments/assets/3a8d6336-b6bc-482a-98f6-5d5d3cd77652" />
 
+## [Volver A Trabajos](../TrabajosU1/Trabajos.md)
+
 ### Lenguaje C 
 
 #include <stdio.h>
