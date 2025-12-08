@@ -6,7 +6,7 @@
 # **👩‍💻 Contextualización de los Tipos De Estrucuturas:**
 
 ## **🔵 Condicional simple**
-Esta estructura actúa como un *foco puntual* dentro del programa: **solo se ejecuta cuando la condición es verdadera**. Si no se cumple, el programa sigue su camino sin hacer nada adicional. Es perfecta cuando se requiere **una única acción dependiente de una condición específica**, como verificar si un número es mayor o si un usuario tiene acceso permitido.
+Esta estructura actúa como un foco puntual dentro del programa: **solo se ejecuta cuando la condición es verdadera**. Si no se cumple, el programa sigue su camino sin hacer nada adicional. Es perfecta cuando se requiere **una única acción dependiente de una condición específica**, como verificar si un número es mayor o si un usuario tiene acceso permitido.
 
 ## **🟠 Condicional doble (if–else)**
 Funciona como un **cruce de dos caminos**. Si la condición es verdadera, el programa toma un camino; si es falsa, toma el otro. Es útil cuando siempre se debe ejecutar **una de dos posibles acciones**. Por ejemplo, decidir entre “Aprobado” o “Reprobado”, “Encender” o “Apagar”, “Aceptar” o “Rechazar”. Siempre devuelve una respuesta, sin importar cuál sea el resultado.
