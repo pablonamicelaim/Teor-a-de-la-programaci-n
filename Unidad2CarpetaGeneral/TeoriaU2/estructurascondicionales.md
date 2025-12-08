@@ -1,6 +1,10 @@
 
 # 🌟 **Tipos de estructuras condicionales y su explicación detallada**
 
+--- 
+
+# Contextualización de los Tipos De Estrucuturas:
+
 ## **🔵 Condicional simple**
 Esta estructura actúa como un *foco puntual* dentro del programa: **solo se ejecuta cuando la condición es verdadera**. Si no se cumple, el programa sigue su camino sin hacer nada adicional. Es perfecta cuando se requiere **una única acción dependiente de una condición específica**, como verificar si un número es mayor o si un usuario tiene acceso permitido.
 
