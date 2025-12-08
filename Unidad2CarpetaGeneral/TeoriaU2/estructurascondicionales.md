@@ -1,8 +1,6 @@
 
 # 🌟 **Tipos de estructuras condicionales y su explicación detallada**
-
 --- 
-
 # Contextualización de los Tipos De Estrucuturas:
 
 ## **🔵 Condicional simple**
