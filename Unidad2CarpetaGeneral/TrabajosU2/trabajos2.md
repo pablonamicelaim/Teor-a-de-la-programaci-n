@@ -1,7 +1,7 @@
 # **Trabajos de la Unidad 2**
 
 ---
-## **Aprendizaje en Contacto con el Docente**
+## **Aprendizaje en Contacto con el Docente:**
 
 ### [ACD1](https://drive.google.com/file/d/1r-kpE1_I5oQvqNwBo9xsJYez6o1rXDY6/view?usp=sharing)
 ---
