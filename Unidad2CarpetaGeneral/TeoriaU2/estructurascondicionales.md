@@ -16,7 +16,7 @@ Es la estructura más versátil, como un **menú de opciones**. Permite evaluar 
 
 ---
 
-## ** Ejercicios **
+## **Ejercicios**
 
 ## **🔵 Condicional simple**
 
