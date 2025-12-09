@@ -1,17 +1,17 @@
 
 
-## Ejercicio combinando estructura condicional y repetitiva (Python).
+# Ejercicio combinando estructura condicional y repetitiva (Python).
 
-● Descripción del problema
+## ● **Descripción del problema**
 
 El programa está diseñado para calcular el promedio ponderado final de varios estudiantes, tomando en cuenta las calificaciones obtenidas en distintos componentes académicos: ACD, AA, APE y ES. Cada uno de estos componentes tiene un peso específico en la nota final. El programa solicita las notas de cada estudiante, valida que estén en el rango de 0 a 10, calcula los respectivos promedios ponderados y determina una clasificación cualitativa (excelente, buena, regular o deficiente) según el resultado final. Además, registra la suma de todas las notas finales para obtener el promedio general del aula. Al finalizar cada ciclo por estudiante, el programa muestra los ponderados individuales, la nota final y el promedio general acumulado.
 
-● Diagrama de flujo simplificado
+## ● **Diagrama de flujo simplificado**
 
 <img width="678" height="1590" alt="image" src="https://github.com/user-attachments/assets/9d33cca5-8534-4a60-bf54-dc5a5f53fde1" />
 
 
-● Programa
+## ● **Programa**
 
     # Programa para calcular promedios ponderados de estudiantes
 
@@ -80,7 +80,7 @@ El programa está diseñado para calcular el promedio ponderado final de varios 
     print(f"El promedio general del aula es: {Promedio:.2f}")
     print("-" * 40)
 
-● Verificación
+## ● **Verificación**
 
 <img width="269" height="516" alt="image" src="https://github.com/user-attachments/assets/2693bfe1-0b58-4a17-afcc-6e907569c7f6" />
 
