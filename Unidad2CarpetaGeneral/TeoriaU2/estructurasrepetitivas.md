@@ -39,7 +39,57 @@ Es el más ordenado y predecible, como una cuenta regresiva programada. Se utili
        return 0;
     }
 
-  
+## **🔵 Diagrama De Flujo**
 
+<img width="536" height="710" alt="image" src="https://github.com/user-attachments/assets/d71d57aa-00c6-464c-a63d-8f15be6f8da4" />
+
+## **🔄 Bucle Repetir…Hasta Que (do–while en algunos lenguajes)**
+
+    #include <stdio.h>
+
+    int main() {
+
+    int numerador, denominador, r;
+
+    printf("Ingrese el numerador:\n");
+    scanf("%i", &numerador);
+    getchar();
+
+    // Ciclo para evitar denominador igual a 0
+    do {
+        printf("Ingrese el denominador:\n");
+        scanf("%i", &denominador);
+        getchar();
+
+    } while (denominador == 0);
+
+    r = numerador / denominador;
+
+    printf("El resultado de su division es %i\n", r);
+
+    return 0;
+    }
+
+## **🔵 Diagrama De Flujo**
+
+<img width="864" height="770" alt="image" src="https://github.com/user-attachments/assets/e38dffed-22ed-42bd-ac39-54fbe9c523d8" />
+
+## **🔃 Bucle Para (for)** 
+
+      int horas, dias;
+
+    for(dias = 1; dias <=365; dias++){
+        
+        for(horas = 1; horas <=24; horas++){
+            printf("Tempera de la hora %i del dia %i\n", horas, dias);
+            
+        }
+    }
+    return 0;
+    }
+
+## **🔵 Diagrama De Flujo**
+
+<img width="922" height="368" alt="image" src="https://github.com/user-attachments/assets/08fa64d6-8622-4a53-93e6-9da02b5360c2" />
 
 ### [Volver A la Tematicas](../TeoriaU2/unidad2temas.md)
