@@ -14,4 +14,4 @@ Funciona como un **cruce de dos caminos**. Si la condición es verdadera, el pro
 ## **🔺 Condicional múltiple (if–elif–else o switch-case)**
 Es la estructura más versátil, como un **menú de opciones**. Permite evaluar **muchas condiciones** y ejecutar la que corresponda a la opción válida. Se utiliza cuando existe más de una respuesta posible, como seleccionar un nivel de dificultad, identificar un día de la semana, elegir una operación matemática o clasificar datos en varias categorías. Le da al programa la capacidad de manejar **diversos escenarios con organización y claridad**.
 
-  
+[diagramadeflujo](file:///D:/Users/DELL/Desktop/CalcularPromedios.svg)
