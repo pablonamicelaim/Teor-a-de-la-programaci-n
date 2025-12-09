@@ -18,10 +18,12 @@ Es la estructura más versátil, como un **menú de opciones**. Permite evaluar 
 
 ## **🔵 Condicional simple**
 
-#include <stdio.h>
+    #include <stdio.h>
 
-int main() {
- int num1, num2;
+    int main() {
+
+    int num1, num2;
+ 
     printf("Ingrese un numero:\n");
     scanf("%i", &num1);
 
@@ -37,8 +39,8 @@ int main() {
     if(num1 == num2){
         printf("El primer numero %i es igual a segundo\n", num1);
     }
-return 0;
-}
+    return 0;
+    }
 ## **🔵 Diagrama De Flujo**
 
 <img width="838" height="880" alt="image" src="https://github.com/user-attachments/assets/72d6a882-b6f5-413a-bd03-58c3419f1266" />
