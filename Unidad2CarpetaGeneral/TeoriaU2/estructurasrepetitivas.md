@@ -16,6 +16,30 @@ Este bucle garantiza que la acción se ejecute al menos una vez, sin importar la
 
 Es el más ordenado y predecible, como una cuenta regresiva programada. Se utiliza cuando ya se conoce la cantidad de repeticiones, como recorrer una lista, imprimir una serie del 1 al 10, o procesar a un número fijo de estudiantes. Define inicio, final y el paso del contador, lo que lo convierte en el ciclo más estructurado y fácil de controlar.
 
+## ** Ejercicios **
+
+## **🔁 Bucle Mientras (while)**
+    
+    #include<stdio.h>
+
+    int main()
+    {
+    int n, c, acumulador;
+    c = 0;
+    
+    printf("Ingrese un numero: ");
+    scanf("%i", &n);
+    
+    while(n >= 1){
+        printf("Ingrese un numero: ");
+        scanf("%i", &n);
+        c = c + 1;
+    }    
+    printf("haz ingresado %i números positivos", c);
+       return 0;
+    }
+
+  
 
 
 ### [Volver A la Tematicas](../TeoriaU2/unidad2temas.md)
