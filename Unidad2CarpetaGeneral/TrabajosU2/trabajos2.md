@@ -3,7 +3,7 @@
 ---
 ## **Aprendizaje en Contacto con el Docente**
 
-### [ACD1]<img width="809" height="314" alt="image" src="https://github.com/user-attachments/assets/7687ff6e-c0cd-4e74-928f-bec74f5fb493" />
+### [ACD1](<img width="809" height="314" alt="image" src="https://github.com/user-attachments/assets/7687ff6e-c0cd-4e74-928f-bec74f5fb493" />)
 
 ---
 
