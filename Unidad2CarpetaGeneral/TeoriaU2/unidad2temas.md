@@ -6,4 +6,4 @@
 
 ## [Ejercicio en Python](EjercicioPy.md)
 
-### [Volver a Unidad 2](../
+### [Volver a Unidad 2](../Unidad2CarpetaGeneral/U2.md)
